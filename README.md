@@ -1,1 +1,2 @@
-# .github
+The Consortium for Open Medical Image Computing was a collaboration between Radboud University Medical Center, Fraunhofer MEVIS, Erasmus MC and University College London.
+Between 2012 and 2014 the consortium implemented the first version of the [Grand Challenge Platform](https://github.com/DIAGNijmegen/grand-challenge), the main instance of which can be found at [grand-challenge.org](https://grand-challenge.org).
